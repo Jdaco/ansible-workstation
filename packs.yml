@@ -1,0 +1,176 @@
+---
+packages:
+  arch:
+    - archiso
+
+  audio:
+    - mpc
+    - mpd
+    - ncmpcpp
+    - pamixer
+    - pulseaudio
+    - pulseaudio-alsa
+    - pulsemixer
+    - projectm
+    - projectm-pulseaudio
+
+  aur:
+    - gitflow-avh-git
+    - teamviewer12
+    - boxes
+    - python-stormssh
+    - cava
+    - ttf-ms-fonts
+
+  development:
+    - ansible
+    - ansible-lint
+    - eslint
+    - fzf
+    - git
+    - ipython
+    - ipython2
+    - mono
+    - nodejs
+    - npm
+    - packer-io
+    - python2-jedi
+    - python2-pytest
+    - python2-tox
+    - python-beautifulsoup4
+    - python-jedi
+    - python-lxml
+    - python-pudb
+    - python-pylint
+    - python-pytest
+    - python-requests
+    - python-tox
+    - python-virtualenv-clone
+    - python-virtualenvwrapper
+    - tidy
+    - vagrant
+    - vim-systemd
+    - virtualbox
+    - yapf
+
+  media:
+    - beets
+    - cdrdao
+    - cdrtools
+    - dvd+rw-tools
+    - ffmpeg
+    - icecast
+    - imagemagick
+
+  monitoring:
+    - acpi
+    - hddtemp
+    - iotop
+    - sysstat
+
+  network:
+    - bind-tools
+    - gnu-netcat
+    - iw
+    - net-tools
+    - nmap
+    - socat
+    - tcpdump
+    - tor
+    - transmission-cli
+    - wireless_tools
+    - wpa_supplicant
+
+  other:
+    - ledger
+    - youtube-dl
+    - task
+    - irssi
+
+  printing:
+    - cups
+    - hplip
+
+  system:
+    - atool
+    - chntpw
+    - cronie
+    - dos2unix
+    - exa
+    - exfat-utils
+    - gptfdisk
+    - haveged
+    - hdparm
+    - highlight
+    - lesspipe
+    - lsof
+    - mlocate
+    - ntfs-3g
+    - ntp
+    - p7zip
+    - parallel
+    - parted
+    - pyalpm
+    - python2-pip
+    - python-pip
+    - ranger
+    - rng-tools
+    - rsync
+    - syslinux
+    - tmux
+    - tmuxp
+    - tree
+    - unrar
+    - unzip
+    - w3m
+    - wget
+    - wgetpaste
+    - which
+    - zip
+    - zsh
+
+  x:
+    - dmenu
+    - nvidia
+    - nvidia-settings
+    - python2-sh
+    - python-sh
+    - qtile
+    - scrot
+    - tamsyn-font
+    - termite
+    - termite-terminfo
+    - ttf-inconsolata
+    - xclip
+    - xf86-video-intel
+    - xf86-video-nouveau
+    - xorg
+    - xorg-xev
+    - xorg-xinit
+    - xorg-xlsfonts
+    - xorg-xrandr
+    - xsel
+
+  xapps:
+    - firefox
+    - flashplugin
+    - libreoffice-fresh
+    - fbreader
+    - mupdf
+
+    - imv
+    - mpv
+    - gparted
+    - scribus
+    - gimp
+
+  zfs:
+    - zfs-linux-git
+
+  npm:
+    - browser-sync
+    - stylelint
+
+  xyne:
+    - reflector
+    - repoman
