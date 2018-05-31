@@ -16,6 +16,7 @@ packages:
 
   aur:
     - gitflow-avh-git
+    - grv
     - teamviewer12
     - boxes
     - python-stormssh
@@ -28,6 +29,7 @@ packages:
     - eslint
     - fzf
     - git
+    - go
     - ipython
     - ipython2
     - mono
@@ -94,6 +96,7 @@ packages:
   system:
     - atool
     - chntpw
+    - cmake
     - cronie
     - dos2unix
     - exa
