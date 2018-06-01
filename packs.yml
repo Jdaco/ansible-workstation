@@ -15,6 +15,7 @@ packages:
     - projectm-pulseaudio
 
   aur:
+    - nvm
     - gitflow-avh-git
     - grv
     - teamviewer12
@@ -101,6 +102,7 @@ packages:
     - dos2unix
     - exa
     - exfat-utils
+    - gconf
     - gptfdisk
     - haveged
     - hdparm
