@@ -15,13 +15,13 @@ packages:
     - projectm-pulseaudio
 
   aur:
-    - nvm
+    - boxes
+    - cava
     - gitflow-avh-git
     - grv
-    - teamviewer12
-    - boxes
+    - nvm
     - python-stormssh
-    - cava
+    - teamviewer12
     - ttf-ms-fonts
 
   development:
