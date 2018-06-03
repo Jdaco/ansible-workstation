@@ -99,6 +99,7 @@ packages:
     - chntpw
     - cmake
     - cronie
+    - dialog
     - dos2unix
     - exa
     - exfat-utils
