@@ -118,6 +118,7 @@ packages:
     - parted
     - pyalpm
     - python2-pip
+    - python-docutils
     - python-pip
     - ranger
     - rng-tools
