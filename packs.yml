@@ -160,6 +160,7 @@ packages:
 
   xapps:
     - firefox
+    - chromium
     - flashplugin
     - libreoffice-fresh
     - fbreader
