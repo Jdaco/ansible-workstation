@@ -23,6 +23,7 @@ packages:
     - python-stormssh
     - teamviewer12
     - ttf-ms-fonts
+    - wtfutil-git
 
   development:
     - ansible
