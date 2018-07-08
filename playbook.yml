@@ -108,7 +108,7 @@
       become: yes
       become_user: aur_builder
       aur: 
-        name: aurman-git
+        name: aurman
 
     - name: Install AUR packages
       become: yes
