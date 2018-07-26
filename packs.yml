@@ -28,9 +28,11 @@ packages:
   development:
     - ansible
     - ansible-lint
+    - ctags
     - eslint
     - fzf
     - git
+    - git-lfs
     - go
     - ipython
     - ipython2
@@ -97,6 +99,7 @@ packages:
 
   system:
     - atool
+    - bat
     - chntpw
     - cmake
     - cronie
