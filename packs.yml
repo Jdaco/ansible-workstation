@@ -39,7 +39,7 @@ packages:
     - mono
     - nodejs
     - npm
-    - packer-io
+    - packer
     - python2-jedi
     - python2-pytest
     - python2-tox
