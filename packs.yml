@@ -55,7 +55,6 @@ packages:
     - python-virtualenvwrapper
     - tidy
     - vagrant
-    - vim-systemd
     - virtualbox
     - yapf
 
