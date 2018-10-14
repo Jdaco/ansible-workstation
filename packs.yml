@@ -29,6 +29,7 @@ packages:
     - ansible
     - ansible-lint
     - ctags
+    - diff-so-fancy
     - eslint
     - fzf
     - git
