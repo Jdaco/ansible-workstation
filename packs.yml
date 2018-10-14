@@ -99,6 +99,7 @@ packages:
   system:
     - atool
     - bat
+    - bauerbill
     - chntpw
     - cmake
     - cronie
