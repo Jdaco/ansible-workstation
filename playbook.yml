@@ -104,12 +104,6 @@
         create: yes
         validate: 'visudo -cf %s'
 
-    - name: Install aurman
-      become: yes
-      become_user: aur_builder
-      aur: 
-        name: aurman
-
     - name: Install AUR packages
       become: yes
       become_user: aur_builder
