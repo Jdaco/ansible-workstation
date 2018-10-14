@@ -128,7 +128,6 @@
 
     - name: Set Timezone
       shell: "rm -f /etc/localtime && ln -sf /usr/share/zoneinfo/America/Los_Angeles /etc/localtime"
-      warn: false
 
     - name: Set Locale
       command: "echo 'LANG=en_US.UTF-8' > /etc/locale.conf"
