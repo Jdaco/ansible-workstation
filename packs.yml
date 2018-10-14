@@ -41,6 +41,7 @@ packages:
     - nodejs
     - npm
     - packer
+    - plantuml
     - python2-jedi
     - python2-pytest
     - python2-tox
@@ -58,6 +59,7 @@ packages:
     - vagrant
     - virtualbox
     - yapf
+    - yarn
 
   media:
     - beets
@@ -90,7 +92,6 @@ packages:
   other:
     - hledger
     - youtube-dl
-    - task
     - irssi
 
   printing:
@@ -128,6 +129,7 @@ packages:
     - ranger
     - rng-tools
     - rsync
+    - sshfs
     - syslinux
     - tmux
     - tmuxp
