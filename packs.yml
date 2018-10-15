@@ -118,6 +118,7 @@ packages:
     - mlocate
     - ntfs-3g
     - ntp
+    - openssh
     - p7zip
     - parallel
     - parted
