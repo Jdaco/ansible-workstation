@@ -21,6 +21,7 @@ packages:
     - grv
     - nvm
     - nvme-cli
+    - plantuml
     - python-stormssh
     - teamviewer12
     - ttf-ms-fonts
@@ -42,7 +43,6 @@ packages:
     - nodejs
     - npm
     - packer
-    - plantuml
     - python2-jedi
     - python2-pytest
     - python2-tox
