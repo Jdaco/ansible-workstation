@@ -20,6 +20,7 @@ packages:
     - gitflow-avh-git
     - grv
     - nvm
+    - nvme-cli
     - python-stormssh
     - teamviewer12
     - ttf-ms-fonts
@@ -123,6 +124,7 @@ packages:
     - p7zip
     - parallel
     - parted
+    - pv
     - pyalpm
     - python2-pip
     - python-docutils
@@ -137,6 +139,7 @@ packages:
     - tree
     - unrar
     - unzip
+    - vim
     - w3m
     - wget
     - wgetpaste
