@@ -110,6 +110,10 @@
       aur: 
         name: "{{ packages.aur }}"
 
+    - name: Install pip packages
+      pip:
+        name: "{{ packages.pip }}"
+
     - name: Install Browser-Sync
       npm:
         name: "browser-sync"

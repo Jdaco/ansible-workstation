@@ -18,7 +18,6 @@ packages:
     - boxes
     - cava
     - gitflow-avh-git
-    - grv
     - nvm
     - nvme-cli
     - plantuml
@@ -37,8 +36,6 @@ packages:
     - git
     - git-lfs
     - go
-    - ipython
-    - ipython2
     - mono
     - nodejs
     - npm
@@ -95,6 +92,9 @@ packages:
     - youtube-dl
     - irssi
 
+  pip:
+    - prompt_toolkit
+
   printing:
     - cups
     - hplip
@@ -144,11 +144,14 @@ packages:
     - wget
     - wgetpaste
     - which
+    - xonsh
     - zip
     - zsh
 
   x:
     - dmenu
+    - lightdm
+    - lightdm-webkit-greeter
     - nvidia
     - nvidia-settings
     - python2-sh
